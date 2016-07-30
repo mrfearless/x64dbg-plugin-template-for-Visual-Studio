@@ -15,7 +15,7 @@ The template was created and tested with Visual Studio 2013, but may work with o
 
 ## Example
 
-If you created a `testplugin` project it should have created a structure like so (assuming the default projects location is `My Documents\Visual Studio 2013\Projects`:
+Assuming the default projects location is `My Documents\Visual Studio 2013\Projects`, if you created a `testplugin` project it should have created a structure like so:
 
 Root Projects Folder: `My Documents\Visual Studio 2013\Projects`
 
@@ -47,8 +47,8 @@ testplugin
 
 If you prefer to use assembly language to create your x64dbg plugin, you may be interested in these, both of which come with RadASM x64dbg plugin templates:
 
-[x64dbg Plugin SDK for x86 Assembler](https://github.com/mrfearless/x64dbg-Plugin-SDK-For-x86-Assembler)
-[x64dbg Plugin SDK for x64 Assembler](https://github.com/mrfearless/x64dbg-Plugin-SDK-For-x64-Assembler)
+* [x64dbg Plugin SDK for x86 Assembler](https://github.com/mrfearless/x64dbg-Plugin-SDK-For-x86-Assembler)
+* [x64dbg Plugin SDK for x64 Assembler](https://github.com/mrfearless/x64dbg-Plugin-SDK-For-x64-Assembler)
 
 
 ## x64dbg
