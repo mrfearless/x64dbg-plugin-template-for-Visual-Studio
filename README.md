@@ -1,6 +1,6 @@
 # x64dbg plugin template for Visual Studio
 
-A C++ template for creating x64dbg plugins (x86 or x64) via Visual Studio
+A template for creating x64dbg plugins (x86 or x64) via Visual Studio
 
 The template was created and tested with Visual Studio 2013, but may work with other versions.
 
