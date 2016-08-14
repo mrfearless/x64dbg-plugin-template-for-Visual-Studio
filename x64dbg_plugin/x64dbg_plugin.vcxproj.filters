@@ -43,16 +43,10 @@
     <Filter Include="Header Files\pluginsdk\yara\yara">
       <UniqueIdentifier>{7459ed30-6c92-481c-8add-0be8d296f015}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Header Files\pluginsdk\angelscript">
-      <UniqueIdentifier>{332461fa-56d8-4756-873b-0f135b67e83f}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="x64dbg_plugin.cpp">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="pluginsdk\angelscript\scriptstdstring.cpp">
-      <Filter>Header Files\pluginsdk\angelscript</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -251,19 +245,8 @@
     <ClInclude Include="pluginsdk\TitanEngine\TitanEngine.h">
       <Filter>Header Files\pluginsdk\TitanEngine</Filter>
     </ClInclude>
-    <ClInclude Include="pluginsdk\angelscript\angelscript.h">
-      <Filter>Header Files\pluginsdk\angelscript</Filter>
-    </ClInclude>
-    <ClInclude Include="pluginsdk\angelscript\scriptstdstring.h">
-      <Filter>Header Files\pluginsdk\angelscript</Filter>
-    </ClInclude>
     <ClInclude Include="pluginsdk\jansson\jansson_x64dbg.h">
       <Filter>Header Files\pluginsdk\jansson</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="pluginsdk\angelscript\sampleScript.as">
-      <Filter>Header Files\pluginsdk\angelscript</Filter>
-    </None>
   </ItemGroup>
 </Project>
