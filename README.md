@@ -1,8 +1,10 @@
 # x64dbg plugin template for Visual Studio
 
-A template for creating x64dbg plugins (x86 or x64) via Visual Studio
+**Note: An offical x64dbg plugin template is now available [here](https://github.com/x64dbg/PluginTemplate), please use this offical instead.**
 
-The template was created and tested with Visual Studio 2013, but may work with other versions.
+_A template for creating x64dbg plugins (x86 or x64) via Visual Studio_
+
+_The template was created and tested with Visual Studio 2013, but may work with other versions._
 
 ## How to install and use
 
@@ -55,3 +57,4 @@ If you prefer to use assembly language to create your x64dbg plugin, you may be 
 * [x64dbg website](http://x64dbg.com)
 * [x64dbg github](https://github.com/x64dbg/x64dbg)
 * [x64dbg latest release](https://github.com/x64dbg/x64dbg/releases/latest)
+* [x64dbg plugin template](https://github.com/x64dbg/PluginTemplate)
